@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/bootloader
+/home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/bootloader.rule
+/home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/bootloader-complete.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/jwaseq/esp/lab1/lab1_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
