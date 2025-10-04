@@ -12,6 +12,7 @@ $<TARGET_FILE:__idf_esp_common>
 $<TARGET_FILE:__idf_esp_system>
 $<TARGET_FILE:__idf_riscv>
 $<TARGET_FILE:__idf_spi_flash>
+$<TARGET_FILE:__idf_esp_hal_mspi>
 $<TARGET_FILE:__idf_bootloader_support>
 $<TARGET_FILE:__idf_mbedtls>
 $<TARGET_FILE:__idf_esp_security>
@@ -21,6 +22,7 @@ $<TARGET_FILE:__idf_app_update>
 $<TARGET_FILE:__idf_esp_app_format>
 $<TARGET_FILE:__idf_esp_bootloader_format>
 $<TARGET_FILE:__idf_esp_timer>
+$<TARGET_FILE:__idf_esp_hal_timg>
 $<TARGET_FILE:__idf_esp_pm>
 $<TARGET_FILE:__idf_esp_driver_gpio>
 $<TARGET_FILE:mbedtls>
@@ -33,11 +35,13 @@ $<TARGET_FILE:idf::esp_mm>
 $<TARGET_FILE:__idf_esp_mm>
 $<TARGET_FILE:__idf_esp_hal_i2c>
 $<TARGET_FILE:__idf_pthread>
+$<TARGET_FILE:idf::esp_hal_mspi>
 $<TARGET_FILE:idf::esp_app_format>
 $<TARGET_FILE:idf::esp_bootloader_format>
 $<TARGET_FILE:idf::app_update>
 $<TARGET_FILE:idf::esp_partition>
 $<TARGET_FILE:idf::efuse>
+$<TARGET_FILE:idf::esp_hal_timg>
 $<TARGET_FILE:idf::esp_timer>
 $<TARGET_FILE:idf::esp_driver_gpio>
 $<TARGET_FILE:idf::esp_pm>

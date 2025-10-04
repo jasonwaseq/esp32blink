@@ -17,7 +17,7 @@
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/app-flash.dir
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/encrypted-app-flash.dir
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/encrypted-flash.dir
-/home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/erase_flash.dir
+/home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/erase-flash.dir
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/merge-bin.dir
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/monitor.dir
 /home/jwaseq/esp/lab1/lab1_3/build/CMakeFiles/app_check_size.dir
@@ -40,6 +40,13 @@
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/riscv/CMakeFiles/install.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/riscv/CMakeFiles/install/local.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/riscv/CMakeFiles/install/strip.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/edit_cache.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/rebuild_cache.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/list_install_components.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/install.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/install/local.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_mspi/CMakeFiles/install/strip.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/bootloader/CMakeFiles/bootloader-flash.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/bootloader/CMakeFiles/encrypted-bootloader-flash.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/bootloader/CMakeFiles/edit_cache.dir
@@ -108,6 +115,13 @@
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/efuse/CMakeFiles/install.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/efuse/CMakeFiles/install/local.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/efuse/CMakeFiles/install/strip.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/edit_cache.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/rebuild_cache.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/list_install_components.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/install.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/install/local.dir
+/home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_hal_timg/CMakeFiles/install/strip.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_timer/CMakeFiles/edit_cache.dir
 /home/jwaseq/esp/lab1/lab1_3/build/esp-idf/esp_timer/CMakeFiles/rebuild_cache.dir
